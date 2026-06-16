@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Studio</string>
+    <string name="app_tagline">Download · Edit · Create</string>
+    <string name="downloader_hint">Paste any video/photo/music URL</string>
+    <string name="analyze">Analyze URL</string>
+    <string name="download">Download</string>
+    <string name="edit">Edit</string>
+    <string name="library">Library</string>
+    <string name="browser">Browser</string>
+    <string name="export">Export</string>
+    <string name="trim">Trim</string>
+    <string name="filter">Filter</string>
+    <string name="speed">Speed</string>
+    <string name="audio">Audio</string>
+    <string name="text">Text</string>
+    <string name="made_by">Made by Rahul Sah</string>
+</resources>
